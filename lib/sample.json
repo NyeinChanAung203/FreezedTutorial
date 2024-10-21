@@ -1,0 +1,51 @@
+{
+    "code":200,
+    "status":"ok",
+    "copyright":"@ 2024 MARVEL",
+    "data":{
+        "id": 1590,
+        "digitalId": 15532,
+        "title": "Officai Handbook of the Marvel Universe #9: The Women of Marvel",
+        "modified": "2019-11-07T08:46:15Z",
+        "thumbnail":{
+            "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c7d666c0e58a.jpg",
+            "alt": "Cover of the Official Handbook of the Marvel Universe, featuring female superheros"
+        },
+        "images": [
+            {
+                "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c7d666c0e58a.jpg",
+                "alt": "Illustration of various comic book superheroes and villains, dynamically posed with ..."
+            },
+            {
+                "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c7d666c0e58a.jpg",
+                "alt": "Illustration of various comic book superheroes and villains, dynamically posed with ..."
+            }
+        ],
+        "details":{
+            "title":"Officai Handbook of the Marvel Universe #9: The Women of Marvel",
+            "format":"Hardcover",
+            "creator":[
+                {
+                    "role":"editor",
+                    "name":"Scarlet Witch"
+                },
+                {
+                    "role":"illustrator",
+                    "name":"Black Window",
+                    "illustrations":[5,6,7,8,9]
+                },
+                {
+                    "role":"writer",
+                    "name":"Captain America",
+                    "pages":"1-222"
+                }
+            ],
+            "metadata":
+                {
+                    "pages":448,
+                    "dimensions":"308x260mm"
+                }
+               
+        }
+    }
+}
